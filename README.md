@@ -2,6 +2,7 @@ Welcome everyone to the analysis of Yelp dataset about Philadelphia Fast food Re
 
 Please download the extracted dataset first and save them in the same working directory to run the code without errors, which are all of the .csv file.
 NOTE: The Fastfood_raw_data is too large to upload on GitHub, so please download it on Google Drive here: https://drive.google.com/file/d/1s6I4h1Zdxh_rsDG0MEhzYSIyKYDx3Zia/view?usp=drive_link
+
 Or you can extract the data by yourself by using the SQL queries in .sql files. Please read the R code for more information.
 
 Description of .R files:
