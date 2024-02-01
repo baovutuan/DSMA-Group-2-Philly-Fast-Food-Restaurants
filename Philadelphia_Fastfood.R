@@ -1,6 +1,7 @@
 # PART 1: DATA PROCESSING
 ## This part's codes originated from Jasper Stuerwald, were modified to suitable to the analysis
 
+
 rm(list = ls()) #clear workspace
 #setwd("~/dsma_project/Term paper") #set workspace
 
